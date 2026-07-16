@@ -14,3 +14,39 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
 
+[[redirects]]
+from = "/accessibilite/index.html"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/personnes/index.html"
+to = "/fr/personnes/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/plan-du-site/index.html"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/fr/personnes/equipe-editoriale/"
+
+[[redirects]]
+from = "/mentions-legales/index.html"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/politique-de-confidentialite/index.html"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/actualites/2026-06-01-retour-dexperience-sur-climb-world/index.html"
+to = "/fr/actualites/2026-06-01-retour-dexperience-sur-climb-world/"
+
+[[redirects]]
+from = "/actualites/index.html"
+to = "/fr/actualites/"
+
